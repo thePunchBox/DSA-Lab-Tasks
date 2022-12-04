@@ -21,6 +21,6 @@ public class CodeChallenge_02 {
         
         System.out.println("Gross Salary is: "+grossSalary);
         
-        System.out.println("Salary after vacations is: "vacation);
+        System.out.println("Salary after vacations is: "+vacation);
     }
 }
