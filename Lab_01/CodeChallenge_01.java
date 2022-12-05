@@ -19,7 +19,7 @@ public class CodeChallenge_01 {
         System.out.println("Options: "+"\n"+"A)"+choice1+"\n"+"B)"+choice2+"\n"+"C)"+choice3);
 
         String answer = sc.nextLine();
-        if(answer.equals(choice3)){
+        if(answer.equals(choice3)){ //==
             System.out.println("Yeah you got the Correct Answer!");
         }
         else{
